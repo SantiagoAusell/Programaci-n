@@ -1,3 +1,4 @@
+
 public class Detergente implements EsLiquido, ConDescuento {
     private String marca;
     private double precio;
