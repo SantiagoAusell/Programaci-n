@@ -12,7 +12,7 @@ public class App {
 
         for (Vehiculo i : lista) {
             total = total + i.Impuesto();
-            System.out.println(i);
+            System.out.println(i.Impuesto());
         }
 
         System.out.println("El impuesto total es: " + total);

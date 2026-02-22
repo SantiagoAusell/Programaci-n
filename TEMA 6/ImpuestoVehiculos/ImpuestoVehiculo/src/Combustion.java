@@ -6,7 +6,7 @@ public class Combustion extends Vehiculo {
 
     @Override
     public double Impuesto() {
-        return CC * 3;
+        return CC * 3 / 100;
     }
 
 }
