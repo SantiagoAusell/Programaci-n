@@ -1,0 +1,3 @@
+rojo 7 10 2
+verde 5
+azul 8 2

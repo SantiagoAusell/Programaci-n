@@ -10,6 +10,7 @@ public class App {
         lista.add(tesla);
         lista.add(ae86);
 
+
         for (Vehiculo i : lista) {
             total = total + i.Impuesto();
             System.out.println(i.Impuesto());
